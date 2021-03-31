@@ -1,3 +1,0 @@
-This is just the file number 1.
-
-Just adding some sample text in order the shortcut for directly commiting a file that has  been changed once it had been added. 
